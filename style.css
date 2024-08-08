@@ -1,0 +1,182 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.nav-link {
+    text-decoration: none;
+    color:grey;
+    font-size: 1rem;
+    display: flex;
+    padding-right: 16px;
+}
+
+
+.nav-left {
+    display: flex;
+    align-items: center;
+}
+.logo{
+  
+   height: 50px;
+}
+
+.nav-right{
+    padding-right: 24px;
+}
+
+.navbar{
+    margin-left: 24px;
+    margin-right: 2px;
+}
+
+.logo-name{
+    font-size: 24px;
+    font-weight: 400;
+    color: rgb(102, 98, 98);
+}
+
+.grey{
+   
+    color: rgb(146, 142, 142);
+}
+
+.main-page{
+            height:500px;
+            width: 400%;
+            background-color:#d8d8d8;
+            width: 100%;
+            display: flex;
+        }
+           
+        
+
+  
+.jumbotronn{
+    height: 500px;
+       
+    padding: 32px 24px 32px 24px;
+}
+
+.banner-right{
+    height: 100%;
+    width: 100%;
+    color: #505050;
+    text-align: center;
+    margin-top:100px;
+  
+
+}
+
+
+.start-here{
+    background-color: #4a4a4a;
+    color: white;
+   width: 200px;
+   height: 50px;
+}
+
+
+.banner-2{
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+
+.verone-half{
+   
+   height: 450px;
+   width: 600px;
+   margin-left:12px ;
+   margin-top: 24px;
+
+    
+}
+
+.verone-halff{
+width: 600px;
+
+}
+
+.text h3{
+    color: #4a4a4a;
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+
+
+.text p{
+    color: #5d5d5d;
+}
+
+.versec-half{
+    height: 100%;
+    width: 40%;
+    
+}
+.image{
+    height: 150px;
+    width: 150px;
+}
+
+.part-1{
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+    display: flex;
+   
+
+}
+.child{
+    margin: 20px 20px 20px 20px;
+    color: #4a4a4a;
+}
+
+
+
+.banner-3{
+
+    height: 700px;
+    width: 100%;
+  
+}
+
+.heading{
+ 
+   text-align: center;
+       
+    color: #dfdddd;
+}
+
+
+.card-container{
+
+
+   height: 600px;
+   width: 100%;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+ 
+
+}
+
+.banner-3{
+    padding: 32px 74px 32px 74px;
+    background-color: #848080;
+    margin-top: 100px;
+}
+
+.cards {
+  height: 300px;
+  width: 220px;
+  background-color: white;
+  margin-bottom: 30px;
+ 
+ 
+}
+
+.cards img{
+    height: 150px;
+    width: 250px;
+    padding-right: 32px;
+}
